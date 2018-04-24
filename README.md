@@ -1,2 +1,2 @@
 # numbers
-small project-- Numbers for kids
+HW project-- Numbers for kids
